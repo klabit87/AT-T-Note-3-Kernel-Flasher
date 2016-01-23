@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.klabit87.nc5flasher" >
+    package="com.klabit87.ni2flasher" >
 <uses-permission android:name="android.permission.ACCESS_SUPERUSER"/>
     <application
         android:allowBackup="true"
         android:icon="@drawable/icon"
-        android:label="@string/app_name"
+        android:label="NI2 Flasher"
         android:theme="@style/AppTheme" >
         <activity
             android:name=".MainActivity"
-            android:label="NC5 Kernel Flasher" >
+            android:label="NI2 Kernel Flasher" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
