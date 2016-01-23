@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.benwaffle.nc2flasher"
+        applicationId "com.benwaffle.com.klabit87.nc5flasher"
         minSdkVersion 19
         targetSdkVersion 21
         versionCode 1
